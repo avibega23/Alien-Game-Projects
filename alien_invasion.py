@@ -1,6 +1,7 @@
 import sys
 import pygame
 from settings import Settings
+from ship import Ship
 
 
 def run_game():
